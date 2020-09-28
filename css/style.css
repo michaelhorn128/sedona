@@ -8,3 +8,24 @@ h2 {
     padding: 10px 5px;
     padding-top: 10px;
 }
+table {
+    border-collapse: collapse;
+}
+
+td {
+    border-top: hotpink 2px solid;
+    border-right: hotpink 2px solid;
+    border-left: hotpink 2px solid;
+    border-bottom: hotpink 2px solid;
+padding: 10px;
+padding-left: 20px;
+}
+th {
+    padding: 10px;
+    border: 2px solid hotpink;
+  }
+  caption {
+    color: green;  
+    caption-side: top;
+    text-align: center;
+  }
